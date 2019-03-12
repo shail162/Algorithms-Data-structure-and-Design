@@ -1,0 +1,16 @@
+
+>squid:S1481-"(Remove this unused "lA3" local variable.(Üú
+Msquid:S1854-"7Remove this useless assignment to local variable "lA3".(Üú
+O
+squid:S1065"9Replace this use of System.out or System.err by a logger.(üÈ¥©
+Dsquid:S14811"(Remove this unused "lB3" local variable.(‰¤Šáûÿÿÿÿ
+O
+squid:S106>"9Replace this use of System.out or System.err by a logger.(ŸÈ‡§
+Ssquid:S18541"7Remove this useless assignment to local variable "lB3".(‰¤Šáûÿÿÿÿ
+T
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ó¯ãúÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚‹‹Ö
+T
+squid:S1066"9Replace this use of System.out or System.err by a logger.(ş¸µöùÿÿÿÿ
+O
+squid:S106="9Replace this use of System.out or System.err by a logger.(•è¤

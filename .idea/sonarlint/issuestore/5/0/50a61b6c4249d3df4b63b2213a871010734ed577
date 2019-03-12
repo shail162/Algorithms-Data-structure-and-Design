@@ -1,0 +1,23 @@
+
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(âô¦E
+Tsquid:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ó…
+[squid:S2147 "DCombine this catch with the one at line 24, which has the same body.(åþáÿ
+T
+squid:S106!"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+Nsquid:S1135#"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+`squid:S2147"DCombine this catch with the one at line 24, which has the same body.(¼¯•¶ùÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+`squid:S2147"DCombine this catch with the one at line 24, which has the same body.(¥¨›ýÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾µÙûÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+[squid:S2147"DCombine this catch with the one at line 24, which has the same body.(Å¡ß
+?squid:S1148$"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å÷Ø”úÿÿÿÿ

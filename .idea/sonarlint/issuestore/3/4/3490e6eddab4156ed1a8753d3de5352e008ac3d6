@@ -1,0 +1,32 @@
+
+4squid:S2386"Make this member "protected".(§ˆ©°
+Dsquid:S1444"-Make this "public static hundred" field final(›éûı
+Asquid:S1444"*Make this "public static tens" field final(¤‚§Í
+Jsquid:S1444".Make this "public static negative" field final(‚«¹ìşÿÿÿÿ
+Csquid:S1444",Make this "public static smalls" field final(»ëûÏ
+O
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(­÷ù‹
+~"squid:ClassVariableVisibilityCheck"PMake bigs a static final constant or non-public and provide accessors if needed.(§ˆ©°
+O
+squid:S106u"9Replace this use of System.out or System.err by a logger.(­÷ù‹
+4squid:S2386"Make this member "protected".(¤‚§Í
+4squid:S2386"Make this member "protected".(»ëûÏ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ôö„Àûÿÿÿÿ
+Asquid:S1444"*Make this "public static bigs" field final(§ˆ©°
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷ÌÁº
+psquid:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷ÌÁº
+O
+squid:S106_"9Replace this use of System.out or System.err by a logger.(­÷ù‹
+O
+squid:S106X"9Replace this use of System.out or System.err by a logger.(­÷ù‹
+ˆsquid:S1319("qThe type of the "parts" object should be an interface such as "List" rather than the implementation "LinkedList".(”Òµ‘
+‡"squid:ClassVariableVisibilityCheck"TMake negative a static final constant or non-public and provide accessors if needed.(‚«¹ìşÿÿÿÿ
+O
+squid:S106f"9Replace this use of System.out or System.err by a logger.(­÷ù‹
+€"squid:ClassVariableVisibilityCheck"RMake smalls a static final constant or non-public and provide accessors if needed.(»ëûÏ
+~"squid:ClassVariableVisibilityCheck"PMake tens a static final constant or non-public and provide accessors if needed.(¤‚§Í
+"squid:ClassVariableVisibilityCheck"SMake hundred a static final constant or non-public and provide accessors if needed.(›éûı
+O
+squid:S106n"9Replace this use of System.out or System.err by a logger.(­÷ù‹
+O
+squid:S106|"9Replace this use of System.out or System.err by a logger.(­÷ù‹

@@ -1,0 +1,8 @@
+
+Xsquid:S1126"AReplace this if-then-else statement by a single return statement.(Œâ“
+ƒ"squid:ClassVariableVisibilityCheck"PMake left a static final constant or non-public and provide accessors if needed.( ¿¢õúÿÿÿÿ
+}"squid:ClassVariableVisibilityCheck"OMake top a static final constant or non-public and provide accessors if needed.(òÕ°¡
+€"squid:ClassVariableVisibilityCheck"RMake bottom a static final constant or non-public and provide accessors if needed.(‡Š÷
+"squid:ClassVariableVisibilityCheck"QMake right a static final constant or non-public and provide accessors if needed.(Š£Åú
+~"squid:ClassVariableVisibilityCheck"PMake size a static final constant or non-public and provide accessors if needed.(íê¥
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬“‰ ÿÿÿÿÿ

@@ -1,0 +1,12 @@
+
+bsquid:S1192"FDefine a constant instead of duplicating this literal "query" 5 times.(–°ıÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ïšªƒúÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(”‰ñ„
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(âìËÊ
+T
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+vsquid:S1488"_Immediately return this expression instead of assigning it to the temporary variable "results".(›ˆÖù
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(àÃ°Şùÿÿÿÿ

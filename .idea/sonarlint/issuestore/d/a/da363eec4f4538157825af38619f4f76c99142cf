@@ -1,0 +1,16 @@
+
+>squid:S1659""Declare "top2" on a separate line.(òÂäúÿÿÿÿ
+>squid:S1659)""Declare "top2" on a separate line.(òÂäúÿÿÿÿ
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒÔ£É
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(êùÂ»øÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(İ¥“
+T
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ùòè¢şÿÿÿÿ
+O
+squid:S1065"9Replace this use of System.out or System.err by a logger.(İ¥“
+T
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ùòè¢şÿÿÿÿ
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Çµí‘
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»Äùúÿÿÿÿ
+lsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(êùÂ»øÿÿÿÿ

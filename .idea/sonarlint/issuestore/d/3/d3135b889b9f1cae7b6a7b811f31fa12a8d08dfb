@@ -1,0 +1,7 @@
+
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(â”‘Í
+gsquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(¥çÏãúÿÿÿÿ
+t
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
+T
+squid:S106;"9Replace this use of System.out or System.err by a logger.(€Öá’ùÿÿÿÿ

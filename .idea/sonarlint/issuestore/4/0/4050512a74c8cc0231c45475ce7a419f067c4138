@@ -1,0 +1,13 @@
+
+jsquid:S3008"SRename this field "MAX_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş’åÆ
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(…àïÕ
+Esquid:S1444".Make this "public static MAX_SIZE" field final(Ş’åÆ
+‡squid:S1319	"kThe type of the "map" object should be an interface such as "Map" rather than the implementation "HashMap".(üË“©øÿÿÿÿ
+‚"squid:ClassVariableVisibilityCheck"TMake MAX_SIZE a static final constant or non-public and provide accessors if needed.(Ş’åÆ
+ƒ"squid:ClassVariableVisibilityCheck"PMake head a static final constant or non-public and provide accessors if needed.(²åóÿÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck"PMake tail a static final constant or non-public and provide accessors if needed.(ô¹°ùıÿÿÿÿ
+‚"squid:ClassVariableVisibilityCheck	"OMake map a static final constant or non-public and provide accessors if needed.(üË“©øÿÿÿÿ
+}"squid:ClassVariableVisibilityCheck
+"PMake size a static final constant or non-public and provide accessors if needed.(ÿã´S
+=squid:S1168K"&Return an empty array instead of null.(¥¹ï
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(àÃ°Şùÿÿÿÿ

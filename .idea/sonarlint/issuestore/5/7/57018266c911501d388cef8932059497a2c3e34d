@@ -1,0 +1,21 @@
+
+T
+squid:S106O"9Replace this use of System.out or System.err by a logger.(ş¸µöùÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚‹‹Ö
+?squid:S1481F"(Remove this unused "lA2" local variable.(¸³•ñ
+O
+squid:S106W"9Replace this use of System.out or System.err by a logger.(ŸÈ‡§
+Wsquid:S2259"@A "NullPointerException" could be thrown; "l1" is nullable here.(¾Â“
+Nsquid:S1854F"7Remove this useless assignment to local variable "lA2".(¸³•ñ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±šşº
+O
+squid:S106V"9Replace this use of System.out or System.err by a logger.(•è¤
+wsquid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "sum".(ş¸Ü´úÿÿÿÿ
+usquid:S1488&"^Immediately return this expression instead of assigning it to the temporary variable "result".(Ù»Õ…
+Ssquid:S1854J"7Remove this useless assignment to local variable "lB3".(ƒÔå¨ÿÿÿÿÿ
+O
+squid:S106N"9Replace this use of System.out or System.err by a logger.(üÈ¥©
+T
+squid:S106P"9Replace this use of System.out or System.err by a logger.(ó¯ãúÿÿÿÿ
+Dsquid:S1481J"(Remove this unused "lB3" local variable.(ƒÔå¨ÿÿÿÿÿ
+lsquid:S2259""N"NullPointerException" will be thrown when invoking method "addListsHelper()".(Å¹öÚ8›ó§Ü-

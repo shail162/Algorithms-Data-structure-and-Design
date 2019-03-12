@@ -1,0 +1,5 @@
+
+"squid:ClassVariableVisibilityCheck"QMake above a static final constant or non-public and provide accessors if needed.(¢ØÍ‹
+"squid:ClassVariableVisibilityCheck"QMake below a static final constant or non-public and provide accessors if needed.(£­Äœ
+„"squid:ClassVariableVisibilityCheck"QMake value a static final constant or non-public and provide accessors if needed.(‚¯¥ùÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…³Šñÿÿÿÿÿ

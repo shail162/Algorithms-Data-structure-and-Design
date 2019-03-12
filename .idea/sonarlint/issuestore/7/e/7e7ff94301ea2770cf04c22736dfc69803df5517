@@ -1,0 +1,14 @@
+
+Usquid:S3034">Prevent "int" promotion by adding "& 0xff" to this expression.(ü‡šÂ
+Nsquid:S1444	"2Make this "public static numberOfInts" field final(‡ğÁÚşÿÿÿÿ
+Jsquid:S1444
+".Make this "public static bitfield" field final(¯Ÿñÿÿÿÿÿ
+\squid:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(°„÷×
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(óãöŸ
+‹"squid:ClassVariableVisibilityCheck	"XMake numberOfInts a static final constant or non-public and provide accessors if needed.(‡ğÁÚşÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck
+"TMake bitfield a static final constant or non-public and provide accessors if needed.(¯Ÿñÿÿÿÿÿ
+9squid:S2386
+"Make this member "protected".(¯Ÿñÿÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Éæ¦Ëÿÿÿÿÿ

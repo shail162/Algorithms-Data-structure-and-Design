@@ -1,0 +1,10 @@
+
+Ksquid:S10667"/Merge this if statement with the enclosing one.(Êì©£ûÿÿÿÿ
+Msquid:S2589P"7Remove this expression which always evaluates to "true"(ûðñ@
+„"squid:ClassVariableVisibilityCheck	"QMake right a static final constant or non-public and provide accessors if needed.(ë™Ùµøÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck"PMake data a static final constant or non-public and provide accessors if needed.(ÅÖÔ´ùÿÿÿÿ
+"squid:ClassVariableVisibilityCheck
+"RMake parent a static final constant or non-public and provide accessors if needed.(‡¹­
+~"squid:ClassVariableVisibilityCheck"PMake left a static final constant or non-public and provide accessors if needed.(ŠËÌç
+Ksquid:S1066="/Merge this if statement with the enclosing one.(áˆÇ¢ûÿÿÿÿ
+Tsquid:S1197_"8Move the array designator from the variable to the type.(‡‘´»ÿÿÿÿÿ

@@ -1,0 +1,14 @@
+
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ä¦»ı
+psquid:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(úª©¡
+squid:S1319"rThe type of the "results" object should be an interface such as "List" rather than the implementation "ArrayList".(¬ìş›øÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck
+"UMake t9Letters a static final constant or non-public and provide accessors if needed.(Ñ‘°Ÿ
+4squid:S2386
+"Make this member "protected".(Ñ‘°Ÿ
+Œsquid:S13197"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ş…ú‚ıÿÿÿÿ
+O
+squid:S106@"9Replace this use of System.out or System.err by a logger.(Œ­ÿ…
+=squid:S1168"&Return an empty array instead of null.(¥¹ï
+Fsquid:S1444
+"/Make this "public static t9Letters" field final(Ñ‘°Ÿ

@@ -1,0 +1,16 @@
+
+usquid:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ø›ß—ıÿÿÿÿ
+isquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(Ö«¨ˆ8¢äÎí–-
+nsquid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(‰¹’ïÿÿÿÿÿ8®«Îí–-
+wsquid:S1450"`Remove the "minHeapComparator" field and declare it as a local variable in the relevant methods.(ŸÀŸ
+nsquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(¡òÀùÿÿÿÿÿ8¢äÎí–-
+usquid:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡¹Äøÿÿÿÿ
+Msquid:S1481O"*Remove this unused "range" local variable.(‹·‰¿ûÿÿÿÿ8ïÕğí–-
+\squid:S1854O"9Remove this useless assignment to local variable "range".(‹·‰¿ûÿÿÿÿ8ïÕğí–-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡ƒ ¬
+nsquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(Í»º®ùÿÿÿÿ8¢äÎí–-
+Vsquid:S1197P"8Move the array designator from the variable to the type.(êîÃ»8ıªïí–-
+nsquid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(Ş‘¡´ùÿÿÿÿ8ïÕğí–-
+nsquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(œÁÆûÿÿÿÿ8¢äÎí–-
+T
+squid:S1068"9Replace this use of System.out or System.err by a logger.(íÆ¨ƒúÿÿÿÿ

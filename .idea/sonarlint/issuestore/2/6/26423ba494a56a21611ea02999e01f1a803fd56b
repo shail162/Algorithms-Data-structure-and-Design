@@ -1,0 +1,13 @@
+
+[squid:S1854*"=Remove this useless assignment to local variable "arraySize".(İ¬µà8¥®ëí–-
+Vsquid:S1197,"8Move the array designator from the variable to the type.(êîÃ»8øÙéí–-
+Lsquid:S1481*".Remove this unused "arraySize" local variable.(İ¬µà8¥®ëí–-
+\squid:S1155">Use isEmpty() to check whether the collection is empty or not.(®¥ê8÷œ¢í–-
+[squid:S1197)"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ÑŠ¾í–-
+Msquid:S1481+"*Remove this unused "range" local variable.(‹·‰¿ûÿÿÿÿ8äëí–-
+Ysquid:S1481/"6Remove this unused "minHeapComparator" local variable.(—½¢Úùÿÿÿÿ8ºŸÛí–-
+\squid:S1854+"9Remove this useless assignment to local variable "range".(‹·‰¿ûÿÿÿÿ8äëí–-
+hsquid:S1854/"ERemove this useless assignment to local variable "minHeapComparator".(—½¢Úùÿÿÿÿ8ºŸÛí–-
+[
+squid:S1068"9Replace this use of System.out or System.err by a logger.(¶Œã’ûÿÿÿÿ8éÔÉí–-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡ƒ ¬

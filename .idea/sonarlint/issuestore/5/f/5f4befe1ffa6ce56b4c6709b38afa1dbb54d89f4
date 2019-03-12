@@ -1,0 +1,4 @@
+
+ˆ"squid:ClassVariableVisibilityCheck"UMake location1 a static final constant or non-public and provide accessors if needed.(€Ãþçýÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck"UMake location2 a static final constant or non-public and provide accessors if needed.(¬ËÇ†
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×†òÚþÿÿÿÿ

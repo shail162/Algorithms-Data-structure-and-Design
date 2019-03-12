@@ -1,0 +1,42 @@
+
+U
+squid:S106¤"9Replace this use of System.out or System.err by a logger.(¦Öç²ûÿÿÿÿ
+U
+squid:S106›"9Replace this use of System.out or System.err by a logger.(âã¶¶ıÿÿÿÿ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â…Äÿ
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(×•œ²
+P
+squid:S106™"9Replace this use of System.out or System.err by a logger.(¹œı
+qsquid:S2293÷"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùñø¤
+U
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+isquid:S00117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÏÿ‡
+osquid:S00117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô›Š¸ùÿÿÿÿ
+8squid:S1643o"Use a StringBuilder instead.(»ßÁ¶úÿÿÿÿ
+nsquid:S00117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ıÛ—şÿÿÿÿ
+8squid:S1643z"Use a StringBuilder instead.(Œ‡îŸûÿÿÿÿ
+qsquid:S2293É"YReplace the type specification in this constructor call with the diamond operator ("<>").(’›©Ö
+U
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+…squid:S1319õ"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(™×•¹
+}squid:S1488è"`Immediately return this expression instead of assigning it to the temporary variable "book_mod".(Ô›Š¸ùÿÿÿÿ
+nsquid:S00117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñì†Çùÿÿÿÿ
+nsquid:S001174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œîãúÿÿÿÿ
+isquid:S00117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÏÿ‡
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+}squid:S1488ï"`Immediately return this expression instead of assigning it to the temporary variable "wordList".(Ô¢û±ûÿÿÿÿ
+Esquid:S2140")Use "java.util.Random.nextInt()" instead.(è’·Íûÿÿÿÿ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(ÕÏÜãøÿÿÿÿ
+osquid:S00117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö±ÙÙÿÿÿÿÿ
+P
+squid:S106‡"9Replace this use of System.out or System.err by a logger.(×•œ²
+‡squid:S1319´"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(ğÀ²…
+Hsquid:S1905Î"+Remove this unnecessary cast to "TreeNode".(ñºŞñùÿÿÿÿ
+8squid:S2129n"!Remove this "Integer" constructor(ÈÁ‹Ğ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(®ÚÚÒüÿÿÿÿ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â…Äÿ
+P
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(×•œ²

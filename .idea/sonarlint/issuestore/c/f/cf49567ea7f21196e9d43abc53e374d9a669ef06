@@ -1,0 +1,13 @@
+
+O
+squid:S106M"9Replace this use of System.out or System.err by a logger.(¥Ì¯ß
+~"squid:ClassVariableVisibilityCheck	"PMake tail a static final constant or non-public and provide accessors if needed.(¾€÷Ş
+T
+squid:S106N"9Replace this use of System.out or System.err by a logger.(™º‰èûÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“È¤ˆøÿÿÿÿ
+T
+squid:S106S"9Replace this use of System.out or System.err by a logger.(ˆº¦ùÿÿÿÿ
+msquid:S2259S"JA "NullPointerException" could be thrown; "intersection" is nullable here.(ˆº¦ùÿÿÿÿ8šó§Ü-
+ƒ"squid:ClassVariableVisibilityCheck
+"PMake size a static final constant or non-public and provide accessors if needed.(õ˜óøÿÿÿÿ
+gsquid:S2259<"DA "NullPointerException" could be thrown; "longer" is nullable here.(íøïäúÿÿÿÿ8šó§Ü-

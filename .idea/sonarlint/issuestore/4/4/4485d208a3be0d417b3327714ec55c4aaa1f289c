@@ -1,0 +1,19 @@
+
+O
+squid:S106c"9Replace this use of System.out or System.err by a logger.(ÿƒ®ë
+qsquid:S22346"ZParameters to multiply have the same names but not the same order as the method arguments.(Œïš´
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨¶À¯
+O
+squid:S106v"9Replace this use of System.out or System.err by a logger.(ÿƒ®ë
+T
+squid:S106s"9Replace this use of System.out or System.err by a logger.(…ÓÜşşÿÿÿÿ
+]squid:S1192c"FDefine a constant instead of duplicating this literal "ERROR" 3 times.(ÿƒ®ë
+O
+squid:S106l"9Replace this use of System.out or System.err by a logger.(ÿƒ®ë
+%squid:RedundantThrowsDeclarationCheckD"hRemove the declaration of thrown exception 'java.lang.ArithmeticException' which is a runtime exception.(òãËÿÿÿÿÿ
+N
+squid:S106x"9Replace this use of System.out or System.err by a logger.(ü„ê!
+T
+squid:S106n"9Replace this use of System.out or System.err by a logger.(ØÇ×”ûÿÿÿÿ
+O
+squid:S106e"9Replace this use of System.out or System.err by a logger.(¹Òşı

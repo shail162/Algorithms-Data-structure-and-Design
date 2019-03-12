@@ -1,0 +1,19 @@
+
+lsquid:S1149,"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(»Å¸Šşÿÿÿÿ
+gsquid:S1149E"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ØÏí­
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª¢öåşÿÿÿÿ
+T
+squid:S106^"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+gsquid:S1149+"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÕĞÌó
+„squid:S1488G"hImmediately return this expression instead of assigning it to the temporary variable "buildOrderString".(¨Ç¼ıÿÿÿÿ
+lsquid:S11497"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(˜ß€½ùÿÿÿÿ
+gsquid:S1149?"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(şåñ
+Ksquid:S1172"/Remove this unused method parameter "projects".(Äÿçˆùÿÿÿÿ
+Fsquid:S1066/"/Merge this if statement with the enclosing one.(ûÇ‰µ
+usquid:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(»Å¸Šşÿÿÿÿ
+lsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ß¥ôüÿÿÿÿ
+T
+squid:S106["9Replace this use of System.out or System.err by a logger.(Ÿ¥Ôüÿÿÿÿ
+Bsquid:S1168F"&Return an empty array instead of null.(Œ†Òşÿÿÿÿ
+Šsquid:S1319+"sThe type of the "projects" object should be an interface such as "List" rather than the implementation "ArrayList".(ÕĞÌó
+Bsquid:S11680"+Return an empty collection instead of null.(¥¹ï

@@ -1,0 +1,6 @@
+
+jsquid:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+}"squid:ClassVariableVisibilityCheck"OMake row a static final constant or non-public and provide accessors if needed.(²¤÷”
+€"squid:ClassVariableVisibilityCheck"RMake column a static final constant or non-public and provide accessors if needed.(‰¹´
+_squid:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(²ÈŞ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø£øãÿÿÿÿÿ

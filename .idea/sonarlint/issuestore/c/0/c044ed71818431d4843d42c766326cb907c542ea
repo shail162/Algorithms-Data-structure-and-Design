@@ -1,0 +1,14 @@
+
+psquid:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(£¶ÙÆ
+4squid:S2386"Make this member "protected".(Ñ‘°Ÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ä¦»ı
+ƒ"squid:ClassVariableVisibilityCheck"VMake numLetters a static final constant or non-public and provide accessors if needed.(ñšúc
+Fsquid:S1444"0Make this "public static numLetters" field final(ñšúc
+ƒ"squid:ClassVariableVisibilityCheck"UMake t9Letters a static final constant or non-public and provide accessors if needed.(Ñ‘°Ÿ
+‰squid:S13199"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(¥ûö—øÿÿÿÿ
+O
+squid:S106^"9Replace this use of System.out or System.err by a logger.(Œ­ÿ…
+•squid:S1319-"yThe type of the "letterToNumberMap" object should be an interface such as "Map" rather than the implementation "HashMap".(»Å›çøÿÿÿÿ
+psquid:S2293N"YReplace the type specification in this constructor call with the diamond operator ("<>").(§ŠŞ—
+Fsquid:S1444"/Make this "public static t9Letters" field final(Ñ‘°Ÿ
+Œsquid:S1319V"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(»çıÿÿÿÿ

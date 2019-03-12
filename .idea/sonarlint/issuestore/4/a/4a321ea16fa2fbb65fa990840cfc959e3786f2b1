@@ -1,0 +1,16 @@
+
+•squid:S1319"rThe type of the "results" object should be an interface such as "List" rather than the implementation "ArrayList".(ÓÌÄ’ûÿÿÿÿ8¹˜’”-
+•squid:S1319"rThe type of the "prefix" object should be an interface such as "List" rather than the implementation "LinkedList".(ÓÌÄ’ûÿÿÿÿ8¹˜’”-
+squid:S13192"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(˜¶¤±8¹˜’”-
+•squid:S1319"rThe type of the "second" object should be an interface such as "List" rather than the implementation "LinkedList".(ÓÌÄ’ûÿÿÿÿ8¹˜’”-
+|squid:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ó¸¾½şÿÿÿÿ8¹˜’”-
+[
+squid:S106T"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8¹˜’”-
+\squid:S1155">Use isEmpty() to check whether the collection is empty or not.(ªåÑ²8¹˜’”-
+V
+squid:S106V"9Replace this use of System.out or System.err by a logger.(œé¾ì8¹˜’”-
+”squid:S1319"qThe type of the "first" object should be an interface such as "List" rather than the implementation "LinkedList".(ÓÌÄ’ûÿÿÿÿ8¹˜’”-
+|squid:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò âùÿÿÿÿ8¹˜’”-
+wsquid:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÎÜ‚…8¹˜’”-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯Ó£±
+\squid:S1155">Use isEmpty() to check whether the collection is empty or not.(ªåÑ²8¹˜’”-

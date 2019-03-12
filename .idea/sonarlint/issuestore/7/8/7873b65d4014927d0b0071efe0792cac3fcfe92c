@@ -1,0 +1,11 @@
+
+T
+squid:S106="9Replace this use of System.out or System.err by a logger.(Ý×Ëâûÿÿÿÿ
+asquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(œ¥…
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜Òã–
+Žsquid:S1319"rThe type of the "dictionary" object should be an interface such as "Set" rather than the implementation "HashSet".(®ÕÓ°þÿÿÿÿ
+8squid:S1643"Use a StringBuilder instead.(ÉÙ™¢ûÿÿÿÿ
+T
+squid:S106@"9Replace this use of System.out or System.err by a logger.(¢ÞÏéÿÿÿÿÿ
+Žsquid:S1319"rThe type of the "dictionary" object should be an interface such as "Set" rather than the implementation "HashSet".(ÉÅÔ˜ûÿÿÿÿ
+Nsquid:S3972"7Move this "if" to a new line or add the missing "else".(®Š¹–

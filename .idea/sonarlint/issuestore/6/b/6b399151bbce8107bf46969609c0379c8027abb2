@@ -1,0 +1,7 @@
+
+‰squid:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(Ş‹ıçøÿÿÿÿ
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(½ÈÀ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓË­ß
+‰squid:S1319"mThe type of the "table" object should be an interface such as "Map" rather than the implementation "HashMap".(ä»Äúÿÿÿÿ
+O
+squid:S106*"9Replace this use of System.out or System.err by a logger.(Êö—„

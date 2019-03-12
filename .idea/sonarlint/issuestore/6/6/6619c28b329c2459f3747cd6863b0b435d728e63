@@ -1,0 +1,8 @@
+
+O
+squid:S106="9Replace this use of System.out or System.err by a logger.(Ó°á´
+T
+squid:S106?"9Replace this use of System.out or System.err by a logger.(Âû¯Ðüÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck"PMake node a static final constant or non-public and provide accessors if needed.(‡Ì¼Òøÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck"VMake isAncestor a static final constant or non-public and provide accessors if needed.(è¹ÑÁúÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ý¾žúÿÿÿÿ

@@ -1,0 +1,12 @@
+
+‡"squid:ClassVariableVisibilityCheck"YMake breakingPoint a static final constant or non-public and provide accessors if needed.(€α‰
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(δ²
+‰"squid:ClassVariableVisibilityCheck"VMake countDrops a static final constant or non-public and provide accessors if needed.(™΄¥ϋÿÿÿÿ
+Lsquid:S1444"0Make this "public static countDrops" field final(™΄¥ϋÿÿÿÿ
+T
+squid:S1064"9Replace this use of System.out or System.err by a logger.(Ύωτωÿÿÿÿ
+Jsquid:S1444"3Make this "public static breakingPoint" field final(€α‰
+O
+squid:S106-"9Replace this use of System.out or System.err by a logger.(“•Ί
+T
+squid:S106/"9Replace this use of System.out or System.err by a logger.(µω½€ύÿÿÿÿ

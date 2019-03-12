@@ -1,0 +1,10 @@
+
+[squid:S1197("8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ÙÄßø“-
+`squid:S22590"BA "NullPointerException" could be thrown; "root" is nullable here.(ÔŸÿ8ô¾àø“-
+Gsquid:S11252")Remove the literal "false" boolean value.(°âÌ™8Ñ¸ƒù“-
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(°âÌ™8ô¾àø“-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(â¤ú
+Gsquid:S1125.")Remove the literal "false" boolean value.(°âÌ™8¥‡‚ù“-
+V
+squid:S106."9Replace this use of System.out or System.err by a logger.(°âÌ™8ô¾àø“-
