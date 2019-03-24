@@ -10,7 +10,7 @@ import library.AssortedMethods;
  * operations: push, pop, peek and isEmpty.
  *
  */
-public class Question {
+public class SortStack {
 	public static Stack<Integer> mergesort(Stack<Integer> inStack) {
 		if (inStack.size() <= 1) {
 			return inStack;

@@ -1,6 +1,8 @@
 package javaNew.Q13_07_Lambda_Expressions;
 
 import java.util.ArrayList;
+import java.util.List;
+import java.util.stream.Collectors;
 
 public class Tester {
 
@@ -19,6 +21,15 @@ public class Tester {
 		}).findAny().get();
 
 		System.out.println(countryR.getName());
+
+		List<Country> list  = countries.stream().filter(country -> {
+			if (country.getName().startsWith("I")){
+				return true;
+			}
+			return false;
+		}).collect(Collectors.toList());
+
+		list.stream().forEach(cn-> System.out.println(cn.getName()));
 
  		String continent = "North America";
  		int popA = QuestionA.getPopulation(countries, continent);

@@ -2,7 +2,7 @@ package linkedList.Q2_02_Return_Kth_To_Last;
 
 import library.*;
 
-public class QuestionD {
+public class KthToLastIterative {
 	
 	public static LinkedListNode nthToLast(LinkedListNode head, int k) {
 		LinkedListNode p1 = head;

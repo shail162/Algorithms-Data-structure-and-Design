@@ -1,5 +1,13 @@
 package arraysAndStrings.Q1_04_Palindrome_Permutation;
-public class QuestionB {
+
+/**
+ * Given a string, write a function to check if it is a permutation of a palindrome. Permutation is re-arrangement
+ * of letters.
+ *
+ * Example: Tact Coa
+ * Output : true (permutations: "tacocat" , "atcocta" etc)
+ */
+public class PalindromePermutation {
 
 	public static boolean isPermutationOfPalindrome(String phrase) {
 		int countOdd = 0;

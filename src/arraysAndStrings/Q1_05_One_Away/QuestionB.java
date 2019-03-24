@@ -12,6 +12,7 @@ package arraysAndStrings.Q1_05_One_Away;
  */
 
 public class QuestionB {
+
 public static boolean oneEditAway(String first, String second) {
 		/* Length checks. */
 		if (Math.abs(first.length() - second.length()) > 1) {

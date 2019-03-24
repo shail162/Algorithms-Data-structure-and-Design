@@ -1,5 +1,6 @@
 package arraysAndStrings.Q1_02_Check_Permutation;
-public class QuestionB {
+
+public class StringPermutation {
 	public static boolean permutation(String s, String t) {
 		if (s.length() != t.length()) return false; // Permutations must be same length
 		

@@ -2,7 +2,11 @@ package oops.Q7_01_Deck_of_Cards;
 
 import java.util.ArrayList;
 
-public class Question {
+/**
+ * Design data strucutre for generic deck of cards. Explain how you would subclass the data structures to implement
+ * blackjack.
+ */
+public class BlackJackGame {
 
 	
 	public static void main(String[] args) {	

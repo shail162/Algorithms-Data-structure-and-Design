@@ -1,4 +1,4 @@
-package linkedList;
+package linkedList.Q2_06_Palindrome;
 
 import library.LinkedListNode;
 

@@ -1,4 +1,4 @@
-            ****__**COMPLETE GUIDE TO INTERVIEW**__****
+            COMPLETE GUIDE TO INTERVIEW
             
 
 What to do when you are stuck in interview? 
@@ -9,6 +9,29 @@ https://www.fromdev.com/2013/07/architect-interview-questions-and-answers.html
             
 How do you handle 10,000 request per second ?
 https://blog.krecan.net/2010/05/02/cool-tomcat-is-able-to-handle-more-than-13000-concurrent-connections/
+
+Design patterns  
+https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLF206E906175C7E07
+
+Adapter design pattern
+https://dzone.com/articles/adapter-design-pattern-in-java
+
+Design principles
+
+https://blog.goyello.com/2013/01/21/top-9-principles-clean-code/
+https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+https://sourcemaking.com/refactoring/smells
+
+what happens when you hit google.com in browser ?
+https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a
+
+OSI Model
+https://www.youtube.com/watch?v=vv4y_uOneC0
+
+
+
+
+
 
 
 
