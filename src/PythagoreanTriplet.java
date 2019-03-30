@@ -16,13 +16,50 @@ import java.util.Arrays;
  * 3) To find a triplet (a, b, c) such that a2 = b2 + c2, do following.
  *
  * Fix ‘a’ as last element of sorted array.
- * Now search for pair (b, c) in subarray between first element and ‘a’. A pair (b, c) with given sum can be found in O(n) time using meet in middle algorithm discussed in method 1 of this post.
+ * Now search for pair (b, c) in subarray between first element and ‘a’.
+ * A pair (b, c) with given sum can be found in O(n) time using meet in middle algorithm discussed in method 1 of this post.
  * If no pair found for current ‘a’, then move ‘a’ one position back and repeat step 3.2.
+ *
+ * Input: arr[] = {3, 1, 4, 6, 5}
+ * Output: True
+ * There is a Pythagorean triplet (3, 4, 5).
+ *
+ * Input: arr[] = {10, 4, 6, 12, 5}
+ * Output: False
+ * There is no Pythagorean triplet.
+ *
  */
 class PythagoreanTriplet {
+
+
+    //naive approach O(n3)
+    static boolean isTripletNaive(int ar[], int n)
+    {
+        for (int i=0; i<n; i++)
+        {
+            for (int j=i+1; j<n; j++)
+            {
+                for (int k=j+1; k<n; k++)
+                {
+                    // Calculate square of array elements
+                    int x = ar[i]*ar[i], y = ar[j]*ar[j], z = ar[k]*ar[k];
+
+                    if (x == y + z || y == x + z || z == x + y)
+                        return true;
+                }
+            }
+        }
+
+        // If we reach here, no triplet found
+        return false;
+    }
+
+
+
     // Returns true if there is a triplet with following property
     // A[i]*A[i] = A[j]*A[j] + A[k]*[k]
     // Note that this function modifies given array
+    //O(n2)
     static boolean isTriplet(int arr[], int n) {
         // Square array elements
         for (int i = 0; i < n; i++)
@@ -55,4 +92,11 @@ class PythagoreanTriplet {
         // If we reach here, then no triplet found
         return false;
     }
+
+    public static void main(String args[]) {
+        int arr[] = {3, 1, 4, 6, 5};
+        System.out.println(isTriplet(arr, arr.length));
+    }
+
+
 }
