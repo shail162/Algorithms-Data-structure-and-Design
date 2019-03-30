@@ -9,12 +9,18 @@ public class TreeNode {
 	public TreeNode right; 
 	public TreeNode parent;
 	private int size = 0;
+	public int hd;
 
 	public TreeNode(int d) {
 		data = d;
 		size = 1;
 	}
-	
+	public TreeNode(int d, int hd) {
+		data = d;
+		size = 1;
+		this.hd = hd;
+	}
+
 	private void setLeftChild(TreeNode left) {
 		this.left = left;
 		if (left != null) {
