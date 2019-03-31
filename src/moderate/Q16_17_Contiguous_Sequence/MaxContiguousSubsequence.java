@@ -7,7 +7,7 @@ package moderate.Q16_17_Contiguous_Sequence;
  * Input: 2 -8 3 -2 4 -10
  * output 3,-2,4
  */
-public class ContiguousSubsequence {
+public class MaxContiguousSubsequence {
 	
 	public static int getMaxSum(int[] a) {
 		int maxSum = 0;
