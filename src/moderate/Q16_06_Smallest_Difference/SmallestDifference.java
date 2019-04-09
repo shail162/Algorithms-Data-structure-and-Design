@@ -6,6 +6,7 @@ package moderate.Q16_06_Smallest_Difference;
  *
  * Example:
  * Input : {1,3,15,11,2}, {23,127,235,19,8}
+ * Output: 3
  */
 public class SmallestDifference {
 	public static int findSmallestDifference(int[] arrayA, int[] arrayB) {

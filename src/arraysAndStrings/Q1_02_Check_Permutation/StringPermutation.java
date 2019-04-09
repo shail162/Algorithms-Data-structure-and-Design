@@ -1,5 +1,11 @@
 package arraysAndStrings.Q1_02_Check_Permutation;
 
+/**
+ * Example:
+ * apple, papel: true
+ * carrot, tarroc: true
+ * hello, llloh: false
+ */
 public class StringPermutation {
 	public static boolean permutation(String s, String t) {
 		if (s.length() != t.length()) return false; // Permutations must be same length

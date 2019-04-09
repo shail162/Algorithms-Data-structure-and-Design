@@ -32,16 +32,17 @@ public class SortedSearchNoSize {
 		while (list.elementAt(index) != -1 && list.elementAt(index) < value) {
 			index *= 2;
 		}
+		System.out.println("index = " + index);
 		return binarySearch(list, value, index / 2, index);
 	}
 	
 	public static void main(String[] args) {
 		int[] array = {1, 2, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 16, 18};
 		Listy list = new Listy(array);
-		for (int a : array) {
-			System.out.println(search(list, a));
-		}
-		System.out.println(search(list, 15));
+//		for (int a : array) {
+//			System.out.println(search(list, a));
+//		}
+		System.out.println(search(list, 16));
 	}
 
 }

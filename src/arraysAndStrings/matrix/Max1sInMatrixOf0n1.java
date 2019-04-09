@@ -4,7 +4,7 @@ import library.AssortedMethods;
 
 /**
  * Given a matrix where 0s will always come first than 1s.
- * Write an algorithm to find max number of 0s in a row.
+ * Write an algorithm to find max number of 1s in a row.
  *
  * Complexity O(m+n)
  *
@@ -27,7 +27,7 @@ public class Max1sInMatrixOf0n1 {
 //            j = C - 1;
         int j = C -1;
 
-        for (int i = 1; i < R; i++)
+        for (int i = 0; i < R; i++)
         {
             // Move left until a 0 is found
             while (j >= 0 && mat[i][j] == 1)
@@ -53,14 +53,13 @@ public class Max1sInMatrixOf0n1 {
                 }
             }
         }
-        matrix[3][1]= 1;
-        matrix[2][0]= 1;
+
+        matrix[3][1]= 0;
+        matrix[2][2] = 1;
         matrix[2][1]= 1;
 
         AssortedMethods.printMatrix(matrix);
 
         System.out.println(rowWithMax1s(matrix));
     }
-
-
 }

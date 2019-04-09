@@ -21,6 +21,11 @@ public class RightTreeView {
         });
     }
 
+    /**
+     * Last node of each level
+     * @param root
+     * @param rightTreeView
+     */
     public static void rightTreeView(TreeNode root,  List<TreeNode> rightTreeView){
 
         Queue<TreeNode> queue = new LinkedList<>();

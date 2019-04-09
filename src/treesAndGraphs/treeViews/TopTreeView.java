@@ -12,6 +12,10 @@ public class TopTreeView {
         topTreeView(root);
     }
 
+    /**
+     * do not add if hd is same
+     * @param root
+     */
 
     public static void topTreeView(TreeNode root){
 

@@ -1,6 +1,9 @@
             COMPLETE GUIDE TO INTERVIEW
             
 
+General approach to backTracking questions
+https://leetcode.com/problems/permutations/discuss/18239/a-general-approach-to-backtracking-questions-in-java-subsets-permutations-combination-sum-palindrome-partioning
+
 What to do when you are stuck in interview? 
 https://www.byte-by-byte.com/stuck-on-coding-interview/
 
@@ -24,6 +27,9 @@ https://sourcemaking.com/refactoring/smells
 
 what happens when you hit google.com in browser ?
 https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a
+
+Design book my show -> System design
+https://www.youtube.com/watch?v=lBAwJgoO3Ek
 
 OSI Model
 https://www.youtube.com/watch?v=vv4y_uOneC0

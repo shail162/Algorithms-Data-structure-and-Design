@@ -7,7 +7,7 @@ import java.util.HashSet;
  * two arrays the same sum.
  *
  * Example
- * Input : {4,1,2,1,1,2} and {3,6,3,3}
+ * Input : {4,1,2,1,1,2} and {3,6,3,3}  -> sum 11, 15
  * Output : {1,3}
  *
  * Time complexity O(A+B)

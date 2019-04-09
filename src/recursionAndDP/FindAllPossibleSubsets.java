@@ -15,11 +15,9 @@ public class FindAllPossibleSubsets {
 
     private static void backtrack(List<List<Integer>> list , List<Integer> tempList, int [] nums, int start){
         list.add(new ArrayList<>(tempList));
-        System.out.println(tempList);
         for(int i = start; i < nums.length; i++){
             tempList.add(nums[i]);
             backtrack(list, tempList, nums, i + 1);
-            System.out.println("removing " + tempList.get(tempList.size() - 1));
             tempList.remove(tempList.size() - 1);
         }
     }
@@ -27,8 +25,6 @@ public class FindAllPossibleSubsets {
 
     public static void main(String args[]) {
         int nums[] = {1,2,3, 4};
-
         subsets(nums).stream().forEach(list -> System.out.println(list));
-
     }
 }

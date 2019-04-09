@@ -21,6 +21,10 @@ public class TreeNode {
 		this.hd = hd;
 	}
 
+	public int getData(){
+		return data;
+	}
+
 	private void setLeftChild(TreeNode left) {
 		this.left = left;
 		if (left != null) {

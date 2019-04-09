@@ -69,9 +69,9 @@ public class ZeroMatrix {
 	}
 	
 	public static void main(String[] args) {
-		int nrows = 10;
-		int ncols = 15;
-		int[][] matrix = AssortedMethods.randomMatrix(nrows, ncols, -10, 10);		
+		int nrows = 4;
+		int ncols = 4;
+		int[][] matrix = AssortedMethods.randomMatrix(nrows, ncols, 0, 10);
 
 		AssortedMethods.printMatrix(matrix);
 		

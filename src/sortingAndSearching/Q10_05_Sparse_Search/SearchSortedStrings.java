@@ -56,7 +56,7 @@ public class SearchSortedStrings {
 	
 	public static void main(String[] args) {
         String[] stringList = {"apple", "", "", "banana", "", "", "", "carrot", "duck", "", "", "eel", "", "flower"};
-        System.out.println(search(stringList, "ac"));
+        System.out.println(search(stringList, "duck"));
         
 		//for (String s : stringList) {
 		//	String cloned = new String(s);

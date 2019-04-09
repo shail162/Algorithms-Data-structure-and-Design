@@ -19,6 +19,11 @@ public class SerializeDeserializeTree {
 
     }
 
+    /**
+     * Pre-order traversal
+     * @param root
+     * @param list
+     */
     public static void serialize(TreeNode root, List<Integer> list){
 
         if(root ==null) {

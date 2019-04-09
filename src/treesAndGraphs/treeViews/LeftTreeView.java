@@ -21,6 +21,12 @@ public class LeftTreeView {
         });
     }
 
+    /**
+     * First node of each level
+     * @param root
+     * @param leftTreeView
+     */
+
     public static void leftView(TreeNode root,  List<TreeNode> leftTreeView){
 
             Queue<TreeNode> queue = new LinkedList<>();

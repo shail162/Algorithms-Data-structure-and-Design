@@ -1,5 +1,6 @@
 package treesAndGraphs.treeViews;
 
+import library.AssortedMethods;
 import library.TreeNode;
 
 import java.util.*;
@@ -10,13 +11,15 @@ public class BottomTreeView {
         TreeNode root = TreeNode.createMinimalBST(new int[]{1,2,3,4,5,6,7,8,9});
 
         bottomTreeView(root);
-        distanceMap.entrySet().stream().forEach(entry -> {
-            System.out.print("[HD=" + entry.getKey() + "] -> " +" " + entry.getValue().data);
-            System.out.println();
-        });
 }
 
 
+    /**
+     *  Every time we find a node
+     *  having same horizontal distance we need to replace
+     *  the data in the map.
+     * @param root
+     */
     // Method that prints the bottom view.
     public static void bottomTreeView(TreeNode root)
     {
