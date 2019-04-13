@@ -34,6 +34,11 @@ https://www.youtube.com/watch?v=lBAwJgoO3Ek
 OSI Model
 https://www.youtube.com/watch?v=vv4y_uOneC0
 
+Expiration map
+http://www.java2s.com/Code/Java/Collections-Data-Structure/ExpiringMap.htm
+
+
+
 
 
 
