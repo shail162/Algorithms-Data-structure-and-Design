@@ -27,7 +27,7 @@ public class FibonacciSeries extends RecursiveTask<Integer> {
     }
 
     public static void main(String args[]) {
-        FibonacciSeries series = new FibonacciSeries(5);
+        FibonacciSeries series = new FibonacciSeries(15);
         int sum = series.compute();
 
         System.out.println("series sum = " + sum);

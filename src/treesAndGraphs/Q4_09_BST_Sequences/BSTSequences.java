@@ -16,7 +16,7 @@ import library.TreeNode;
  *
  *  output {2,1,3}, {2,3,1}
  */
-public class Question {
+public class BSTSequences {
 	
 	public static void weaveLists(LinkedList<Integer> first, LinkedList<Integer> second, ArrayList<LinkedList<Integer>> results, LinkedList<Integer> prefix) {
 		/* One list is empty. Add the remainder to [a cloned] prefix and
