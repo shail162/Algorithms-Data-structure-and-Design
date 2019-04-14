@@ -34,8 +34,18 @@ https://www.youtube.com/watch?v=lBAwJgoO3Ek
 OSI Model
 https://www.youtube.com/watch?v=vv4y_uOneC0
 
+Networking Basics
+https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW
+
 Expiration map
 http://www.java2s.com/Code/Java/Collections-Data-Structure/ExpiringMap.htm
+
+28 Programming Interview Questions [Arden Dertat]
+http://www.ardendertat.com/2012/01/09/programming-interview-questions/
+
+
+
+
 
 
 

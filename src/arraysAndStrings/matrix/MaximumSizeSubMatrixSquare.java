@@ -56,7 +56,12 @@ public class MaximumSizeSubMatrixSquare {
 
     public static void main(String args[]){
 
-        int arr[][] = {{0,1,1,0,1},{1,1,1,0,0},{1,1,1,1,0},{1,1,1,0,1}};
+        int arr[][] = {
+                        {0,1,1,0,1},
+                        {1,1,1,0,0},
+                        {1,1,1,1,0},
+                        {1,1,1,0,1}
+                      };
         MaximumSizeSubMatrixSquare mssm = new MaximumSizeSubMatrixSquare();
         int result = mssm.maxSize(arr);
         System.out.print(result);

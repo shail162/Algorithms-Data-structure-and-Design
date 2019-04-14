@@ -26,7 +26,7 @@ public class Tester {
 			
 			int volumeA = QuestionA.computeHistogramVolume(histogram);
 			int volumeB = QuestionB.computeHistogramVolume(histogram);
-			int volumeC = VolumnOfHistogram.computeHistogramVolume(histogram);
+			int volumeC = TrappingRainWater.computeHistogramVolume(histogram);
 			if (volumeA != targetVolume || volumeB != targetVolume || volumeC != targetVolume) {
 				System.out.println("FAILURE: " + input + " -> wanted " + output + " but got (" + volumeA + ", " + volumeB + ", " + volumeC + ")");
 			} else {

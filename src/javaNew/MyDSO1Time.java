@@ -21,16 +21,14 @@ public class MyDSO1Time {
         HashMap<Integer, Integer>  hash;
 
         // Constructor (creates arr[] and hash)
-        public MyDSO1Time()
-        {
+        public MyDSO1Time() {
             arr = new ArrayList<Integer>();
             hash = new HashMap<Integer, Integer>();
         }
 
         // A Theta(1) function to add an element to MyDS
         // data structure
-        void add(int x)
-        {
+        void add(int x) {
             // If ekement is already present, then noting to do
             if (hash.get(x) != null)
                 return;
@@ -45,8 +43,7 @@ public class MyDSO1Time {
 
         // A Theta(1) function to remove an element from MyDS
         // data structure
-        void remove(int x)
-        {
+        void remove(int x) {
             // Check if element is present
             Integer index = hash.get(x);
             if (index == null)
@@ -102,4 +99,4 @@ public class MyDSO1Time {
             System.out.println(ds.search(50));
             System.out.println(ds.getRandom());
         }
-}
+    }

@@ -1,9 +1,9 @@
 package hard.Q17_21_Volume_of_Histogram;
 
 /**
- *
+ *  Trapping rain water
  */
-public class VolumnOfHistogram {
+public class TrappingRainWater {
 
 	/* Go through each bar and compute the volume of water above it. 
 	 * Volume of water at a bar =
@@ -42,6 +42,7 @@ public class VolumnOfHistogram {
 	public static void main(String[] args) {
 		//int[] histogram = {0, 0, 4, 0, 0, 6, 0, 0, 3, 0, 8, 0, 2, 0, 5, 2, 0, 3, 0, 0};
 		int[] histogram = {3,0,0,2,0,4};
+		//int []histogram = {1,2,3,0};
 		int result = computeHistogramVolume(histogram);
 		System.out.println(result);
 	}

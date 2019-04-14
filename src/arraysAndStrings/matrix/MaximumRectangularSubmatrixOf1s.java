@@ -1,7 +1,7 @@
 package arraysAndStrings.matrix;
 
 
-import hard.Q17_21_Volume_of_Histogram.VolumnOfHistogram;
+import hard.MaxHistogramRectangle;
 
 /**
  **
@@ -23,21 +23,24 @@ import hard.Q17_21_Volume_of_Histogram.VolumnOfHistogram;
  */
 public class MaximumRectangularSubmatrixOf1s {
 
-    public int maximum(int input[][]){
-        int temp[] = new int[input[0].length];
 
-        VolumnOfHistogram mh = new VolumnOfHistogram();
-        int maxArea = 0;
+    public int maximum(int input[][]){
+        //int temp[] = new int[input[0].length];
+        int maxArea = Integer.MIN_VALUE;
+        MaxHistogramRectangle mh = new MaxHistogramRectangle();
+
         int area = 0;
         for(int i=0; i < input.length; i++){
-            for(int j=0; j < temp.length; j++){
+            int temp[] = new int[input[0].length];
+            temp[0] = input[i][0];
+            for(int j=1; j < temp.length; j++){
                 if(input[i][j] == 0){
                     temp[j] = 0;
                 }else{
-                    temp[j] += input[i][j];
+                    temp[j] = temp[j-1] + input[i][j];
                 }
             }
-            area = mh.computeHistogramVolume(temp);
+            area = mh.maxHistogram(temp);
             if(area > maxArea){
                 maxArea = area;
             }
@@ -47,7 +50,7 @@ public class MaximumRectangularSubmatrixOf1s {
 
     public static void main(String args[]){
         int input[][] = {
-                            {1,1,1,0},
+                            {1,1,1,1},
                             {1,1,1,1},
                             {0,1,1,0},
                             {0,1,1,1},
