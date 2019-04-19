@@ -13,8 +13,9 @@ public class MergeKSortedArrays {
         int arr[][] = {
                             {1,8,9,14,17},
                             {6,10,19,40,50},
-                            {3,5,11,15,20},
-                            {2,4,7,12,16}
+                            {4,5,11,15,20},
+                            {2,3,7,12,16}
+                           // {21,22,23,24,25}
                         };
         mergeKSortedArrays(arr);
     }
@@ -24,23 +25,22 @@ public class MergeKSortedArrays {
         int row = arr.length, col = arr[0].length;
         int result[] = new int[row*col];
 
-        PriorityQueue<Integer> queue = new PriorityQueue<>();
+        PriorityQueue<Node> queue = new PriorityQueue<>();
 
         for (int i = 0 ; i < row; i++){
-            queue.add(arr[i][0]);
+            queue.add(new Node(arr[i][0],i,0));
         }
 
         int k = 0;
         for (int i = 1 ; i < col; i++){
             for(int j = 0; j < row; j++){
-                queue.add(arr[j][i]);
-                result[k++] = queue.poll();
+                queue.add(new Node(arr[j][i], j,j));
+                result[k++] = queue.poll().val;
             }
         }
 
-
         while(!queue.isEmpty()) {
-            result[k++] = queue.poll();
+            result[k++] = queue.poll().val;
         }
 
         printResult(result);
@@ -53,4 +53,21 @@ public class MergeKSortedArrays {
             System.out.print(val + " ");
         }
     }
+}
+
+
+class Node {
+
+    int val;
+    int arrayIndex;
+    int valueIndex;
+
+
+    public Node(int val, int arrayIndex, int valueIndex) {
+        this.val = val;
+        this.arrayIndex = arrayIndex;
+        this.valueIndex = valueIndex;
+    }
+
+
 }

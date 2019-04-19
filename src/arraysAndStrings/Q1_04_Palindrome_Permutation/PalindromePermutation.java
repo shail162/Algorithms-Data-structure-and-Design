@@ -33,6 +33,4 @@ public class PalindromePermutation {
 		String pali2 = "Zeus was deified, saw Suez";
 		System.out.println(isPermutationOfPalindrome(pali2));
 	}
-
-
 }

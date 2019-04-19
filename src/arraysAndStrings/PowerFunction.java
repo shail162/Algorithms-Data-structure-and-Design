@@ -6,6 +6,7 @@ package arraysAndStrings;
  * We may assume that x and n are small and overflow doesn’t happen.
  */
 public class PowerFunction {
+
     static float power(float x, int y)
     {
         float temp;

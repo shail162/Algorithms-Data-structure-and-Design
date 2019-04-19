@@ -60,6 +60,9 @@ class PythagoreanTriplet {
     // A[i]*A[i] = A[j]*A[j] + A[k]*[k]
     // Note that this function modifies given array
     //O(n2)
+    //Input: arr[] = {3, 1, 4, 6, 5}
+    //sort and square: {1, 9, 16, 25, 36}
+
     static boolean isTriplet(int arr[], int n) {
         // Square array elements
         for (int i = 0; i < n; i++)

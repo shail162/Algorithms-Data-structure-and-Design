@@ -26,7 +26,7 @@ public class FirstNegNumInWindowOfSizeK {
 
         //findFirstNegativeNumEachWindow(arr2, k1);
 
-        findFirstNegativeOptimzed(arr2, k1);
+        findFirstNegativeOptimzed(arr, k);
 
     }
 
@@ -90,7 +90,7 @@ public class FirstNegNumInWindowOfSizeK {
             }
 
             //remove elements out of the window
-            while(!queue.isEmpty() && queue.peek() < (i-k+1)){
+            while(!queue.isEmpty() && queue.peek() <= (i-k)){
                 queue.removeFirst();
             }
 
