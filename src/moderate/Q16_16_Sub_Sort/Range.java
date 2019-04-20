@@ -1,5 +1,7 @@
 package moderate.Q16_16_Sub_Sort;
 
+import java.util.Random;
+
 public class Range {
 	public int start, end;
 	public Range(int start, int end) {
@@ -15,7 +17,7 @@ public class Range {
 	@Override
 	public int hashCode() {
 		final int prime = 31;
-		int result = 1;
+		int result = new Random().nextInt(100);
 		result = prime * result + end;
 		result = prime * result + start;
 		return result;

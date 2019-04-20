@@ -125,9 +125,9 @@ public class EditDistanceStrings {
                     else
                     {
                         distanceTable[m][n] = min (
-                                1 + distanceTable[m-1][n],
-                                1 + distanceTable[m][n-1],
-                                1 + distanceTable[m-1][n-1]
+                                1 + distanceTable[m-1][n], //delete
+                                1 + distanceTable[m][n-1], //insert
+                                1 + distanceTable[m-1][n-1]  //replace
                         );
                     }
                 }
