@@ -11,7 +11,7 @@ package arraysAndStrings;
  *          key = 20
  * Output : Found at index 3
  *
- * Input :  arr[] = {5, 6, 7, 8, 9, 10, 1, 2, 3};
+ * Input :  arr[] = {5, 6, 7, 8, 9, 10, 3, 2, 1};
  *          key = 30
  * Output : Not Found
  */
