@@ -109,7 +109,7 @@ public class QuestionB {
 	}
 	
 	public static void main(String[] args) throws FileNotFoundException {
-		String filename = "Ch 10. Scalability and Memory Limits/Q10_04_Missing_Int/input.txt";
+		String filename = "input.txt";
 		int max = 10000000;
 		int missing = 1234325;
 		System.out.println("Generating file...");

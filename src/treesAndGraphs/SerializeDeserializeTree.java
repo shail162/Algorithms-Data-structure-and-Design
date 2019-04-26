@@ -20,7 +20,7 @@ public class SerializeDeserializeTree {
     }
 
     /**
-     * Pre-order traversal
+     * Pre-order traversal  [Root - left - right]
      * @param root
      * @param list
      */

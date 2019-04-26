@@ -15,8 +15,7 @@ public class BottomTreeView {
 
 
     /**
-     *  Every time we find a node
-     *  having same horizontal distance we need to replace
+     *  Every time we find a node having same horizontal distance we need to replace
      *  the data in the map.
      * @param root
      */
