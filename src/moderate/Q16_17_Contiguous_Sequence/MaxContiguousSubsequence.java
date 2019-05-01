@@ -5,7 +5,7 @@ package moderate.Q16_17_Contiguous_Sequence;
  * Return the sum
  *
  * Input: 2 -8 3 -2 4 -10
- * output 3,-2,4
+ * output 5
  */
 public class MaxContiguousSubsequence {
 	

@@ -2,7 +2,8 @@ package hard.Q17_04_Missing_Number;
 
 /**
  * Find the smallest missing number
- * Given a sorted array of n distinct integers where each integer is in the range from 0 to m-1 and m > n. Find the smallest number that is missing from the array.
+ * Given a sorted array of n distinct integers where each integer is in the range from 0 to m-1 and m > n.
+ * Find the smallest number that is missing from the array.
  *
  * Examples
  * Input: {0, 1, 2, 6, 9}, n = 5, m = 10
@@ -17,14 +18,14 @@ package hard.Q17_04_Missing_Number;
  * Input: {0, 1, 2, 3, 4, 5, 6, 7, 10}, n = 9, m = 11
  * Output: 8
  *
- * Thanks to Ravichandra for suggesting following two methods
  */
 public class FindSmallestMissingNumber {
 
 
     /** Approach 1
      *If arr[0] is not 0, return 0. Otherwise traverse the input array starting from index 0,
-     *  and for each pair of elements a[i] and a[i+1], find the difference between them. if the difference is greater than 1 then a[i]+1 is the missing number.
+     *  and for each pair of elements a[i] and a[i+1], find the difference between them.
+     *  if the difference is greater than 1 then a[i]+1 is the missing number.
      *
      * Time Complexity: O(n)
      */
