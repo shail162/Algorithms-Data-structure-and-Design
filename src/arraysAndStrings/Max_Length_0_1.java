@@ -6,7 +6,8 @@ import java.util.HashMap;
 /**
  *
  * Length of the longest substring with equal 1s and 0s
- * Given a binary string. We need to find the length of longest balanced sub string. A sub string is balanced if it contains equal number of 0 and 1.
+ * Given a binary string. We need to find the length of longest balanced sub string.
+ * A sub string is balanced if it contains equal number of 0 and 1.
  *
  * Examples:
  *
