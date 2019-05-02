@@ -13,7 +13,7 @@ package arraysAndStrings;
 public class FindElementAppearOnce {
 
     public static void main(String args[]) {
-        int arr[] = {1,1,2,2,3,3,4,4,50,50,65,65};
+        int arr[] = {1,1,2,2,3,3,4,50,50,65,65};
 
         search(arr, 0 , arr.length-1);
     }
