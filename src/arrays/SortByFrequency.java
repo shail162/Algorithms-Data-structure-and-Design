@@ -8,7 +8,8 @@ import java.util.*;
 /**
  * Sorting Elements of an Array by Frequency
  * Given an array A[] of integers, sort the array according to frequency of elements.
- * That is elements that have higher frequency come first. If frequencies of two elements are same, then smaller number comes first.
+ * That is elements that have higher frequency come first.
+ * If frequencies of two elements are same, then smaller number comes first.
  *
  * input : 5 5 4 6 4
  * output: 4 4 5 5 6
