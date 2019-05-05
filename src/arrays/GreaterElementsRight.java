@@ -2,10 +2,19 @@ package arrays;
 
 import java.util.Stack;
 
+/**
+ * Given an array of positive integers. Your task is to find the leaders in the array.
+ * Note: An element of array is leader if it is greater than or equal to all the elements to its right side.
+ * Also, the rightmost element is always a leader.
+ *
+ * input : 16, 17, 4, 3, 5, 2
+ * output 17 5 2
+ *
+ */
 public class GreaterElementsRight {
 
     public static void main(String args[]) {
-        int arr[] = {6,10,11,9,2} ; //{6,3,9,1,7,8};
+        int arr[] = {16, 17, 4, 3, 5, 2} ; //{6,3,9,1,7,8};
         printAllElementsGreaterThanRight(arr);
     }
 
