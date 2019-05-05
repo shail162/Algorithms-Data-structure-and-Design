@@ -62,7 +62,6 @@ public class ChocolateDistribution {
         if (arr.length < m)
             return -1;
 
-
         //sort array: 1,3,4,7,9,9,12,56
         Arrays.sort(arr);
 
