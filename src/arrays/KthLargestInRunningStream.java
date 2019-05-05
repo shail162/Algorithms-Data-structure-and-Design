@@ -5,6 +5,9 @@ import java.util.Queue;
 
 
 /**
+ * K’th largest element in a stream
+ * Given an infinite stream of integers, find the k’th largest element at any point of time.
+ *
  * Input:
  * stream[] = {10, 20, 11, 70, 50, 40, 100, 5, ...}
  * k = 3
@@ -14,7 +17,7 @@ public class KthLargestInRunningStream {
 
 
     public static void main(String args[]) {
-            int arr[] = {23,10,15,70,5,80,100}    ;
+            int arr[] = {10, 20, 11, 70, 50, 40, 100, 5}    ;
             findKthLargestRunningStream(arr, 3);
     }
 
@@ -24,14 +27,17 @@ public class KthLargestInRunningStream {
         Queue<Integer> minHeap = new PriorityQueue<>();
 
         int i=0;
+
         for (; i < k ; i++){
             minHeap.add(arr[i]);
         }
-
+        System.out.println(minHeap.peek());
         for (; i < arr.length ; i++){
-            System.out.println(minHeap.poll());
-
-            minHeap.add(arr[i]);
+            if(arr[i] >= minHeap.peek()) {
+                minHeap.poll();
+                minHeap.add(arr[i]);
+            }
+            System.out.println(minHeap.peek());
         }
     }
 }
