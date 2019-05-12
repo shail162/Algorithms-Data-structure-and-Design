@@ -5,6 +5,7 @@ import java.util.Arrays;
 /**
  * Let’s visualize a better solution using an example, the given number is 12543 and
  * the resulting next higher number should be 13245.
+ *
  * We scan the digits of the given number starting from the tenths digit (which is 4 in our case) going towards left.
  * At each iteration we check the right digit of the current digit we’re at,
  * and if the value of right is greater than current we stop, otherwise we continue to left.

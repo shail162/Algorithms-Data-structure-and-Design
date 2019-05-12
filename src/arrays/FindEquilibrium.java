@@ -28,7 +28,7 @@ package arrays;
 public class FindEquilibrium {
 
     public static void main(String args[]){
-        int arr[] = {1 ,3 ,5 ,2 ,2}; //ouput index 3
+        int arr[] = {1 ,3 ,5 ,2 ,2}; //output index 2
 
         int result = findEquilibrium(arr);
         System.out.println(result);
