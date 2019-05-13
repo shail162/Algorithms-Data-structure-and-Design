@@ -30,9 +30,11 @@ public class FindElementAppearOnce {
      *
      * 1) Find the middle index, say ‘mid’.
      *
-     * 2) If ‘mid’ is even, then compare arr[mid] and arr[mid + 1]. If both are same, then the required element after ‘mid’ else before mid.
+     * 2) If ‘mid’ is even, then compare arr[mid] and arr[mid + 1].
+     * If both are same, then the required element after ‘mid’ else before mid.
      *
-     * 3) If ‘mid’ is odd, then compare arr[mid] and arr[mid – 1]. If both are same, then the required element after ‘mid’ else before mid.
+     * 3) If ‘mid’ is odd, then compare arr[mid] and arr[mid – 1].
+     * If both are same, then the required element after ‘mid’ else before mid.
      *
      * Below is the implementation based on above idea.
      */
